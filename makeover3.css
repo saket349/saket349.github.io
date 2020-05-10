@@ -1,0 +1,71 @@
+
+.info{
+    background-color: black;
+    color:white;
+    margine:20px;
+    padding: 20px;
+}
+.headline{
+        background-color: yellow;
+    color:black;
+    margine:20px;
+    padding: 20px;
+}
+.hd{
+    font-size: 40px;
+    text-align: center;
+    font-family:fantasy;
+}
+.pro{
+      background-color: dodgerblue;
+    color:whitesmoke;
+    margine:20px;
+    padding: 20px;
+    font-family:'Modak', cursive;
+font-family: 'Oswald', sans-serif;
+}
+p{
+    font-size:25px;
+   
+}
+a{
+    color: chocolate;
+    
+}
+a:link{
+    text-decoration: none;
+    color: black;
+    font-family:oswald;
+    font-size: 25px;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    color: forestgreen;
+}
+a:active{
+    text-decoration: underline;
+}
+.parti{
+    background-color: greenyellow;
+    color:black;
+    margine:20px;
+    padding: 20px;
+}
+.lang{
+    background-color: dodgerblue;
+    color:whitesmoke;
+    margine:20px;
+    padding: 20px;
+    font-family:'Modak', cursive;
+font-family: 'Oswald', sans-serif;
+    text-align: center;
+    
+}
+.lk{
+    font-size: 30px;
+    color: b
+}

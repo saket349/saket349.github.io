@@ -1,0 +1,53 @@
+font-family:'Modak', cursive;
+font-family: 'Oswald', sans-serif;
+.a{
+    color: white;
+    
+}
+a:link{
+    text-decoration: none;
+    color: white;
+    font-family:oswald;
+    font-size: 25px;
+}
+a:visited{
+    text-decoration: none;
+    color: violet;
+}
+a:hover{
+    text-decoration: underline;
+    color: hotpink;
+}
+a:active{
+    text-decoration: underline;
+}
+
+.sports{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.skill{
+    background-color: yellow;
+    text-align: center;
+    font-size: 25px;
+}
+.usl{
+    background-color: white;
+}
+.hob{
+    background-color: orchid;
+    text-align: center;
+    font-size: 20px;
+}
+.intro{
+    background-color: palegreen;
+     text-align: center;
+    font-size: 20px;
+}
+.info{
+    background-color: black;
+    color:white;
+    
+}
