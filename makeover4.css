@@ -23,13 +23,17 @@ a:active{
 }
 
 .sports{
-    background-color: blue;
+    background-color: lightslategray;
     text-align: center;
+    border-style: inset;
     color: white;
     font-size: 25px;
 }
 .skill{
-    background-color: yellow;
+    background-color: dimgray;
+    color:white;
+    border-style:outset;
+    border-color: black;
     text-align: center;
     font-size: 25px;
 }
@@ -37,8 +41,10 @@ a:active{
     background-color: white;
 }
 .hob{
-    background-color: orchid;
+    background-color: gray;
     text-align: center;
+    border-style:outset ;
+    border-color: cornsilk;
     font-size: 20px;
 }
 .intro{
