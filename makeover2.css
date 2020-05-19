@@ -1,7 +1,7 @@
 .info{
     background-color: black;
     color:white;
-    margine:20px;
+    margin:2px;
     padding: 20px;
 }
 a{
@@ -27,11 +27,14 @@ a:active{
 }
 .infodetail{
     background-color: yellow;
+    padding: 2px;
+    margin:5px;
     text-align: center;
     
 }
 .infe{
     background-color: black;
+    padding: 2px;
     text-align: center;
 }
 .email{
